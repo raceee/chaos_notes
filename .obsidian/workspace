@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "8131cbd770a140df",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a6fe0bd04353099",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "chapter11/Sarkovskii's Theorem.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de8edc8e2e8e48c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfacea210cc872ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6e6ac528ed1ba5a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "08e4e3a1333e34d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baad6e2f249c3c7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd200338d6297e93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 459
+  },
+  "right": {
+    "id": "16e7702e85e8096f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b75451783446eec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f81faae1d67c0c41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "chapter11/Sarkovskii's Theorem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5a6fe0bd04353099",
+  "lastOpenFiles": [
+    "chapter11/Sarkovskii's Theorem.md",
+    "chapter3/quadratic function.md",
+    "chapter10/properties of chaos.md",
+    "chapter10/sensitive on initial conditions.md",
+    "chapter10/transitive.md",
+    "chapter10/dense.md",
+    "chapter9/proximity theorem.md",
+    "chapter9/shift map.md",
+    "chapter9/sequence space.md",
+    "chapter11/The Period 3 Theorem.md"
+  ]
+}
