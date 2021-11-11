@@ -34,9 +34,37 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "tag:#chapter11",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "tag:#chapter12",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "tag:#chapter9",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "tag:#chapter6",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -46,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7429141452134649,
+  "scale": 0.6690343028210269,
   "close": true
 }

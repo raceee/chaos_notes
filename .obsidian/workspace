@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter11/Sarkovskii's Theorem.md",
+            "file": "chapter12/schwarzian derivative.md",
             "mode": "preview"
           }
         }
@@ -22,7 +22,7 @@
     "type": "split",
     "children": [
       {
-        "id": "dfacea210cc872ac",
+        "id": "ba2a18b7f63abe9b",
         "type": "tabs",
         "children": [
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter11/Sarkovskii's Theorem.md",
+                "file": "chapter12/schwarzian derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "5a6fe0bd04353099",
   "lastOpenFiles": [
+    "chapter12/schwarzian derivative.md",
+    "chapter12/basins.md",
+    "chapter9/proximity theorem.md",
+    "chapter9/metric.md",
+    "chapter5/mean value theorem.md",
+    "chapter9/sequence space.md",
+    "chapter6/bifurcation.md",
     "chapter11/Sarkovskii's Theorem.md",
     "chapter3/quadratic function.md",
-    "chapter10/properties of chaos.md",
-    "chapter10/sensitive on initial conditions.md",
-    "chapter10/transitive.md",
-    "chapter10/dense.md",
-    "chapter9/proximity theorem.md",
-    "chapter9/shift map.md",
-    "chapter9/sequence space.md",
-    "chapter11/The Period 3 Theorem.md"
+    "chapter10/properties of chaos.md"
   ]
 }
